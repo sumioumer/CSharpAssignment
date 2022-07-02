@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\Labexcercise1\Labexcercise1\obj\Debug\net6.0\Labexcercise1.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Labexcercise1\Labexcercise1\obj\Debug\net6.0\Labexcercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Labexcercise1\Labexcercise1\obj\Debug\net6.0\Labexcercise1.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Labexcercise1\Labexcercise1\obj\Debug\net6.0\Labexcercise1.AssemblyInfo.cs
+C:\Users\hp\source\repos\Labexcercise1\Labexcercise1\obj\Debug\net6.0\Labexcercise1.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Labexcercise1\Labexcercise1\bin\Debug\net6.0\Labexcercise1.exe
+C:\Users\hp\source\repos\Labexcercise1\Labexcercise1\bin\Debug\net6.0\Labexcercise1.deps.json
+C:\Users\hp\source\repos\Labexcercise1\Labexcercise1\bin\Debug\net6.0\Labexcercise1.runtimeconfig.json
+C:\Users\hp\source\repos\Labexcercise1\Labexcercise1\bin\Debug\net6.0\Labexcercise1.dll
+C:\Users\hp\source\repos\Labexcercise1\Labexcercise1\bin\Debug\net6.0\Labexcercise1.pdb
+C:\Users\hp\source\repos\Labexcercise1\Labexcercise1\obj\Debug\net6.0\Labexcercise1.dll
+C:\Users\hp\source\repos\Labexcercise1\Labexcercise1\obj\Debug\net6.0\refint\Labexcercise1.dll
+C:\Users\hp\source\repos\Labexcercise1\Labexcercise1\obj\Debug\net6.0\Labexcercise1.pdb
+C:\Users\hp\source\repos\Labexcercise1\Labexcercise1\obj\Debug\net6.0\Labexcercise1.genruntimeconfig.cache
+C:\Users\hp\source\repos\Labexcercise1\Labexcercise1\obj\Debug\net6.0\ref\Labexcercise1.dll
